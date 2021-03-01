@@ -23,6 +23,6 @@ or:    Amazing_Face_Detection.exe video 0  (for usbcam)
 # Test experience
 If the image size is larger than `720p`, it is recommended to scale the image `below 720p`!
 # Example result
-![image](https://github.com/samylee/Amazing_Face_Detection/blob/master/result.jpg)
+![](result.jpg)
 # Reference
 https://blog.csdn.net/samylee
